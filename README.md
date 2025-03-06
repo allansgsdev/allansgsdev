@@ -15,6 +15,8 @@
 • 🎓 Graduando em Análise e Desenvolvimento de Sistemas. </br>
 • :briefcase: Atualmente estou me especializando em Back-End. <br><br>
 
+---
+
 <div align="center">
   <a href="https://github.com/allansgsdev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=allansgsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
@@ -22,6 +24,7 @@
 </div>
 
 ---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,git,github,arduino,pycharm,androidstudio,notion,discord,pr,ae" />
