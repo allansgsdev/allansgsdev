@@ -15,7 +15,7 @@
 • 🎓 Graduando em Análise e Desenvolvimento de Sistemas. </br>
 • :briefcase: Atualmente estou me especializando em Back-End. <br><br>
 
----
+#
 
 <div align="center">
   <a href="https://github.com/allansgsdev">
