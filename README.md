@@ -13,7 +13,7 @@
 
 • 👦🏾 Olá, eu sou <strong>Allan Gomes</strong>! :computer: </br>
 • 🎓 Graduando em Análise e Desenvolvimento de Sistemas. </br>
-• :briefcase: Atualmente estou me especializando em Back-End. <br><br>
+• :briefcase: Atualmente estou me especializando em Back-End. <br>
 #
 
 <div align="center">
