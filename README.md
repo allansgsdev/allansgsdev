@@ -1,7 +1,6 @@
 # <h1 class="titulo-principal" align="center">👨🏾‍💻 Desenvolvedor de Sistemas 👨🏾‍💻</h1>
 
-<p align="center">
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/allansgsdev)](https://github.com/allansgsdev)</p>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/allansgsdev)](https://github.com/allansgsdev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanscgomes/)](https://www.linkedin.com/in/allanscgomes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allansgsdev@gmail.com)](mailto:allansgsdev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/allansgs/)](https://www.instagram.com/allansgs/)
