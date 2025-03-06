@@ -1,4 +1,4 @@
-## <h1 class="titulo-principal" align="center">👨🏾‍💻 Desenvolvedor de Sistemas 👨🏾‍💻</h1>
+## <h1 class="titulo-principal" align="center">👨🏾‍💻 Desenvolvedor de Sistemas 👨🏾‍💻
 
 <div align="center">
   
@@ -9,6 +9,7 @@
   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5571993462742)](https://api.whatsapp.com/send?phone=5571993462742)
   
 </div>
+</h1>
 
 #
 
